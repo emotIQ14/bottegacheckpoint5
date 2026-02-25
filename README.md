@@ -39,9 +39,10 @@ python3 -m unittest discover -s tests -v
 Las respuestas teóricas se han añadido en formato notebook dentro de `docs/`:
 
 - `docs/Guia_de_Python_para_Nuevos_Desarrolladores.ipynb`
+- `docs/Guia_de_Python_para_Nuevos_Desarrolladores.pdf`
 
-Enlace de Google Colab (visualización/edición):
+Enlace de Google Colab (visualización/edición del notebook):
 
 - https://colab.research.google.com/drive/1HGTJ33GzHiJyzjKJwVvG7S5xWiN1qNRv?usp=sharing
 
-Opcionalmente, también se puede añadir una versión en PDF dentro de `docs/`.
+También se incluye una versión en PDF dentro de `docs/` para revisión rápida.
