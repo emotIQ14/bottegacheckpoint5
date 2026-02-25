@@ -1,7 +1,13 @@
-# Documentación teórica (pendiente)
+# Documentación teórica
 
-Esta carpeta queda preparada para añadir el PDF con las respuestas teóricas del CheckPoint 5.
+## Archivo principal (respuestas)
 
-Cuando tengas el archivo, se puede subir aquí (por ejemplo):
+- `docs/Guia_de_Python_para_Nuevos_Desarrolladores.ipynb`
 
-- `docs/checkpoint5_documentacion_teorica.pdf`
+## Enlace de Google Colab
+
+- https://colab.research.google.com/drive/1HGTJ33GzHiJyzjKJwVvG7S5xWiN1qNRv?usp=sharing
+
+## Opcional
+
+Si se requiere una versión adicional en PDF para revisión, se puede añadir en esta misma carpeta.

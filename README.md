@@ -6,7 +6,7 @@ Este repositorio contiene la parte práctica de la asignación del CheckPoint 5.
 
 - `ejercicios/ejercicios_practicos.py`: resolución de los ejercicios prácticos solicitados.
 - `tests/test_ejercicios_practicos.py`: pruebas automáticas básicas con `unittest`.
-- `docs/`: carpeta preparada para añadir la documentación teórica en PDF posteriormente.
+- `docs/`: documentación teórica y recursos de apoyo (notebook / PDF).
 
 ## Ejercicios prácticos incluidos
 
@@ -36,4 +36,12 @@ python3 -m unittest discover -s tests -v
 
 ## Nota sobre la documentación teórica
 
-Las respuestas a las preguntas teóricas no están incluidas en este repositorio por ahora, ya que serán añadidas posteriormente en formato PDF dentro de la carpeta `docs/`.
+Las respuestas teóricas se han añadido en formato notebook dentro de `docs/`:
+
+- `docs/Guia_de_Python_para_Nuevos_Desarrolladores.ipynb`
+
+Enlace de Google Colab (visualización/edición):
+
+- https://colab.research.google.com/drive/1HGTJ33GzHiJyzjKJwVvG7S5xWiN1qNRv?usp=sharing
+
+Opcionalmente, también se puede añadir una versión en PDF dentro de `docs/`.
