@@ -33,6 +33,6 @@ Las respuestas teóricas se han añadido en formato notebook dentro de `docs/`:
 
 Enlace de Google Colab (visualización/edición del notebook):
 
-- https://colab.research.google.com/drive/1HGTJ33GzHiJyzjKJwVvG7S5xWiN1qNRv?usp=sharing
+- https://colab.research.google.com/drive/1BkoYd97mUU0CvtSdMFW4HSqgGWP7L3vJ?usp=sharing
 
 También se incluye una versión en PDF dentro de `docs/` para revisión rápida.
