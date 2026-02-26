@@ -5,7 +5,6 @@ Este repositorio contiene la parte práctica de la asignación del CheckPoint 5.
 ## Contenido
 
 - `ejercicios/ejercicios_practicos.py`: resolución de los ejercicios prácticos solicitados.
-- `tests/test_ejercicios_practicos.py`: pruebas automáticas básicas con `unittest`.
 - `docs/`: documentación teórica y recursos de apoyo (notebook / PDF).
 
 ## Ejercicios prácticos incluidos
@@ -21,18 +20,9 @@ Este repositorio contiene la parte práctica de la asignación del CheckPoint 5.
 python3 ejercicios/ejercicios_practicos.py
 ```
 
-## Cómo ejecutar las pruebas
+## Enfoque
 
-```bash
-python3 -m unittest discover -s tests -v
-```
-
-## Criterios de calidad aplicados
-
-- Código organizado en funciones reutilizables.
-- Tipado básico (`type hints`) para mejorar legibilidad.
-- Verificación del ejercicio de nombres con `in` y con `for in`.
-- Pruebas automáticas para validar resultados.
+Se ha dejado una versión simple y directa de los ejercicios prácticos, usando solo lo necesario para cumplir la consigna.
 
 ## Nota sobre la documentación teórica
 
