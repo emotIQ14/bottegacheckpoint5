@@ -26,13 +26,11 @@ Se ha dejado una versión simple y directa de los ejercicios prácticos, usando 
 
 ## Nota sobre la documentación teórica
 
-Las respuestas teóricas se han añadido en formato notebook dentro de `docs/`:
+Las respuestas teóricas se han añadido en `docs/`:
 
+- `docs/Guia_de_Python_para_Nuevos_Desarrolladores.md`
 - `docs/Guia_de_Python_para_Nuevos_Desarrolladores.ipynb`
-- `docs/Guia_de_Python_para_Nuevos_Desarrolladores.pdf`
 
-Enlace de Google Colab (visualización/edición del notebook):
+Enlace de Google Colab:
 
 - https://colab.research.google.com/drive/1BkoYd97mUU0CvtSdMFW4HSqgGWP7L3vJ?usp=sharing
-
-También se incluye una versión en PDF dentro de `docs/` para revisión rápida.
